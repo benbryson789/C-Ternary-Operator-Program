@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\bin\Debug\netcoreapp3.1\Ternary Statement Example Csharp.exe
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\bin\Debug\netcoreapp3.1\Ternary Statement Example Csharp.deps.json
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\bin\Debug\netcoreapp3.1\Ternary Statement Example Csharp.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\bin\Debug\netcoreapp3.1\Ternary Statement Example Csharp.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\bin\Debug\netcoreapp3.1\Ternary Statement Example Csharp.dll
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\bin\Debug\netcoreapp3.1\Ternary Statement Example Csharp.pdb
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.dll
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.pdb
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.genruntimeconfig.cache
+C:\Users\debra_2qm34gh\source\repos\Ternary Statement Example Csharp\Ternary Statement Example Csharp\obj\Debug\netcoreapp3.1\Ternary Statement Example Csharp.csprojAssemblyReference.cache
